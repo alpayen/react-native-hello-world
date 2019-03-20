@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19003,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 34329,
+  "expoServerNgrokUrl": "https://xy-awe.anonymous.hello-world.exp.direct",
+  "packagerNgrokUrl": "https://packager.xy-awe.anonymous.hello-world.exp.direct",
+  "ngrokPid": 34350,
+  "webpackServerPort": null
+}
